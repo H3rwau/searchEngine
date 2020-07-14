@@ -1,0 +1,122 @@
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/leiphone.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/phonekr.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.smzdm.com.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xbeta.info.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/36kr.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/songshuhui.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/techweb.xml
+2020-07-14 14:21:01,076 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/coolshell.xml
+2020-07-14 14:21:02,565 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:02,568 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:03,797 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:03,798 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:04,966 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:04,966 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:06,141 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:06,142 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:07,329 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:07,330 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:08,457 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:08,458 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:09,651 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:09,652 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:10,801 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:10,802 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:11,946 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:11,947 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:21:13,105 h3rwau [DEBUG]  webpage.cc(54)-<processDoc>: 
+111
+2020-07-14 14:21:13,107 h3rwau [DEBUG]  webpage.cc(95)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:50,359 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.iplaysoft.com.xml
+2020-07-14 14:22:50,359 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/jobbole.xml
+2020-07-14 14:22:50,359 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.xbeta.info.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekfan.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xubeng.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/iteye_news.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/portablesoft.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/ifanr.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/douban.book.review.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekpark.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/leiphone.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/phonekr.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.smzdm.com.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xbeta.info.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/36kr.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/songshuhui.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/techweb.xml
+2020-07-14 14:22:50,360 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/coolshell.xml
+2020-07-14 14:22:51,853 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:53,070 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:54,267 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:55,545 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:56,737 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:57,890 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:22:59,103 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:00,330 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:01,574 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:02,765 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:03,964 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:05,140 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:06,362 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:07,530 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:08,706 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash

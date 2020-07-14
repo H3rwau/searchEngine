@@ -1,0 +1,14 @@
+ip              192.168.48.128
+port            2000
+rss             ../rss
+ripepage        ../data/ripepage.dat
+offset          ../data/offset.dat
+invertindex     ../data/invertindex.dat
+newripepage     ../data/newripepage.dat
+newoffset       ../data/newoffset.dat
+stopword        ../data/stopword.dat             
+DICT_PATH       ../dict/jieba.dict.utf8
+HMM_PATH        ../dict/hmm_model.utf8
+USER_DICT_PATH  ../dict/user.dict.utf8
+IDF_PATH        ../dict/idf.utf8
+STOP_WORD_PATH  ../dict/stop_words.utf8

@@ -1,0 +1,136 @@
+2020-07-14 14:17:41,549 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:41,552 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:42,751 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:42,753 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:43,901 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:43,903 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:45,153 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:45,156 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:46,317 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:46,323 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:47,486 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:47,491 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:48,669 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:48,671 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:49,847 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:49,850 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:51,004 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:51,010 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:52,215 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:52,217 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:53,402 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:53,404 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:54,610 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:54,613 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:55,829 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:55,831 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:57,080 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:57,082 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:58,315 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:58,317 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:17:59,540 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:17:59,542 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:00,789 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:00,794 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:02,097 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:02,100 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:03,277 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:03,291 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:04,497 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:04,501 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:05,785 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:05,787 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:06,964 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:06,969 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:08,185 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:08,185 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:09,496 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:09,521 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:10,837 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:10,841 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:12,104 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:12,107 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:13,368 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:13,372 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:14,568 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:14,570 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:15,812 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:15,814 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:17,037 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:17,044 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:18,269 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:18,271 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:19,471 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:19,474 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:20,691 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:20,698 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222
+2020-07-14 14:18:21,971 h3rwau [DEBUG]  webpage.cc(111)-<calcSimhash>: 
+111
+2020-07-14 14:18:21,976 h3rwau [DEBUG]  webpage.cc(114)-<calcSimhash>: 
+222

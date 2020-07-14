@@ -1,0 +1,116 @@
+2020-07-14 14:23:09,869 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:11,038 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:12,217 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:13,387 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:14,552 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:15,792 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:17,018 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:18,218 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:19,419 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:20,618 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:21,863 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:23,082 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:24,368 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:25,661 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:38,509 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.iplaysoft.com.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/jobbole.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.xbeta.info.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekfan.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xubeng.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/iteye_news.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/portablesoft.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/ifanr.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/douban.book.review.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekpark.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/leiphone.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/phonekr.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.smzdm.com.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xbeta.info.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/36kr.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/songshuhui.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/techweb.xml
+2020-07-14 14:23:38,510 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/coolshell.xml
+2020-07-14 14:23:40,019 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:41,258 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:42,468 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 14:23:43,604 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 16:27:20,571 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.iplaysoft.com.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/jobbole.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.xbeta.info.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekfan.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xubeng.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/iteye_news.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/portablesoft.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/ifanr.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/douban.book.review.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/geekpark.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/leiphone.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/phonekr.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/feed.smzdm.com.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/xbeta.info.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/36kr.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/songshuhui.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/techweb.xml
+2020-07-14 16:27:20,572 h3rwau [DEBUG]  dirscanner.cc(52)-<traverse>: 
+../rss/coolshell.xml
+2020-07-14 16:27:22,153 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 16:27:23,568 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 16:27:24,837 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
+2020-07-14 16:27:26,096 h3rwau [DEBUG]  webpage.cc(94)-<processDoc>: 
+calcsimhash
